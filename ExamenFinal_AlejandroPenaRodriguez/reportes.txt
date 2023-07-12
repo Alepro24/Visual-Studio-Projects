@@ -1,0 +1,38 @@
+Practicas Programacion 2
+
+
+Fecha: 12/12/2017 8:17:58 PM
+Materia Programacion 2
+Numero de estudiantes 2
+
+
+Estudiante	Prac 1	Prac 2	Prac 3	Prac 4
+-----------------------------------------------------------------------------------
+AlejandroPena	100	100	100	100
+
+JulioPena	100	100	100	100
+
+				
+-----------------------------------------------------------------------------------
+Observaciones: Malo
+Practicas Programacion 2
+
+
+Fecha: 2/5/2018 9:50:44 PM
+Materia Programacion 2
+Numero de estudiantes 4
+
+
+Estudiante	Prac 1	Prac 2	Prac 3	Prac 4
+-----------------------------------------------------------------------------------
+AlejandroPena	34	54	65	76
+
+JulioPena	43	54	65	76
+
+dhhddede	54	54	54	76
+
+aass	45	45	45	54
+
+				
+-----------------------------------------------------------------------------------
+Observaciones: ass+10

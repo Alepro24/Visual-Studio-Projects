@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\bin\Debug\DefPersistenciadeObjetos.exe.config
+E:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\bin\Debug\DefPersistenciadeObjetos.exe
+E:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\bin\Debug\DefPersistenciadeObjetos.pdb
+E:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\obj\Debug\DefPersistenciadeObjetos.exe
+E:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\obj\Debug\DefPersistenciadeObjetos.pdb
+E:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\obj\Debug\DefPersistenciadeObjetos.csprojResolveAssemblyReference.cache
+V:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\bin\Debug\DefPersistenciadeObjetos.exe.config
+V:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\obj\Debug\DefPersistenciadeObjetos.exe
+V:\Visual Studio Projects\DefPersistenciadeObjetos\DefPersistenciadeObjetos\obj\Debug\DefPersistenciadeObjetos.pdb
