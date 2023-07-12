@@ -1,0 +1,14 @@
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.exe.config
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.exe
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.pdb
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csprojResolveAssemblyReference.cache
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\MainWindow.g.cs
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\App.g.cs
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital_MarkupCompile.cache
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital_MarkupCompile.lref
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\MainWindow.baml
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.g.resources
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Properties.Resources.resources
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csproj.GenerateResource.Cache
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.exe
+V:\Visual Studio Projects\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.pdb

@@ -1,0 +1,25 @@
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\alumno\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+V:\Visual Studio Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
